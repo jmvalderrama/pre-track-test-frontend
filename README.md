@@ -12,9 +12,9 @@ Desarrollo actual del proyecto:
 
 - [x]  Instalar ChakraUI
 - [x]  Instalar íconos
-- [ ]  Crear la estructura de carpetas y archivos
-- [ ]  Configurar el tema de la app
-- [ ]  Modificar componente `App.tsx`
+- [x]  Crear la estructura de carpetas y archivos
+- [x]  Configurar el tema de la app
+- [x]  Modificar componente `App.tsx`
 - [ ]  Crear componente `Question.tsx`
 - [ ]  Crear componente `Option.tsx`
 - [ ]  Crear componente `OptionsGroup.tsx`
